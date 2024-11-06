@@ -1,3 +1,21 @@
 body{
     background-color: #f4f4f4;
 }
+
+footer{
+    background-color: #4f4f4f;
+    color: #ffff;
+    margin-top: 30px;
+
+}
+
+footer ul li {
+    
+    list-style: none;
+    font-size: 20px;
+}
+
+footer ul li a {
+    color: #ffff;
+    text-decoration: none;
+}
